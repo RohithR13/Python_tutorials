@@ -1,0 +1,65 @@
+[
+    {
+        "emp_id": "\n"
+    },
+    {
+        "emp_id": "1",
+        "name": "arun",
+        "dob": "1/2/2000",
+        "manager_id": "4",
+        "dept\n": "operation\n"
+    },
+    {
+        "emp_id": "\n"
+    },
+    {
+        "emp_id": "2",
+        "name": "bala",
+        "dob": "1/2/2000",
+        "manager_id": "4",
+        "dept\n": "operation\n"
+    },
+    {
+        "emp_id": "\n"
+    },
+    {
+        "emp_id": "3",
+        "name": "chandran",
+        "dob": "1/3/2000",
+        "manager_id": "5",
+        "dept\n": "hr\n"
+    },
+    {
+        "emp_id": "\n"
+    },
+    {
+        "emp_id": "4",
+        "name": "delma",
+        "dob": "1/4/2000",
+        "manager_id": "6",
+        "dept\n": "operation\n"
+    },
+    {
+        "emp_id": "\n"
+    },
+    {
+        "emp_id": "5",
+        "name": "eva",
+        "dob": "1/5/2000",
+        "manager_id": "6",
+        "dept\n": "hr\n"
+    },
+    {
+        "emp_id": "\n"
+    },
+    {
+        "emp_id": "6",
+        "name": "fatima",
+        "dob": "1/6/2000",
+        "manager_id": "",
+        "dept\n": "ceo\n"
+    },
+    {
+        "emp_id": "\n"
+    }
+]

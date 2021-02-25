@@ -1,0 +1,9 @@
+#integer
+1,2,3
+#float
+1.5,-0.55,2.0
+#strings
+"a","5","rohith"
+#booleans
+True
+False
